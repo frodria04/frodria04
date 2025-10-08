@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sophia.
 
 <!--
 **frodria04/frodria04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[]specify what repo to look at. highlight me?  My resume link. literally highlight and include hyperlinks
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
